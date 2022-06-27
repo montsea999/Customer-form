@@ -1,0 +1,27 @@
+
+.btn{
+  background-color: rgb(84, 136, 247);
+  color: white; 
+}
+
+select:hover{
+    background-color: yellow;
+  }
+select option{
+    background-color: yellow;
+  }
+
+  h1{
+    color:rgb(247, 104, 53);
+  }
+
+  form input,select{
+    border: 1px solid rgb(84, 136, 247);
+  }
+
+  #results{
+    border: 1px solid rgb(84, 136, 247);
+  }
+
+
+
